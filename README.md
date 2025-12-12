@@ -42,8 +42,9 @@ This demo notebook:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name 
+git clone git@github.com:Mangyoo/Group-6-Visualizing-Attention-in-Transformer-Based-Language-Representation-Models.git
+
+cd Group-6-Visualizing-Attention-in-Transformer-Based-Language-Representation-Models
 ```
 
 ### 2. Use Google Colab to avoid Torch Installation
