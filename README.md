@@ -2,8 +2,8 @@
 
 This repository contains a **Jupyter Notebook demo** created for a presentation on the paper:
 
-> **Visualizing Attention in Transformer-Based Language Representation Models**  
-> *Jesse Vig*
+ **Visualizing Attention in Transformer-Based Language Representation Models** by **Jesse Vig**
+
 
 The demo builds on **[BERTViz](https://github.com/jessevig/bertviz)**, an interactive visualization tool for inspecting attention mechanisms in transformer-based language models such as **BERT**, **GPT**, and related architectures.
 
@@ -28,24 +28,6 @@ This demo notebook:
 
 ---
 
-## 🚀 Quick Start (Recommended: Google Colab)
-
-Since **Google Colab already includes PyTorch**, using Colab can significantly reduce setup time compared to local installation.
-
-➡️ **Open the demo notebook in Google Colab:**  
-👉 **[Google Colab Notebook (link placeholder)]**  
-
-
-*(Replace the link above with your actual notebook.)*
-
-### Why Colab?
-- PyTorch is preinstalled
-- No GPU setup required
-- Faster startup for demos and workshops
-- No local environment conflicts
-
----
-
 ## 🧪 What’s in This Repo?
 
 - 📓 **Jupyter Notebook demo**
@@ -56,12 +38,25 @@ Since **Google Colab already includes PyTorch**, using Colab can significantly r
 - 🎤 Presentation-oriented structure (clear sections, minimal boilerplate)
 
 ---
-
-## 🛠 Local Installation (Optional)
-
-If you prefer running the notebook locally, follow the standard BERTViz installation instructions.
+## How to access the notebook
 
 ### 1. Clone this repository
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+cd your-repo-name 
+```
+
+### 2. Use Google Colab to avoid Torch Installation
+
+Since **Google Colab already includes PyTorch**, using Colab can significantly reduce setup time compared to local installation.
+
+➡️ **Open the demo notebook in Google Colab:**  
+👉 **[Google Colab Notebook ()]**  
+
+### Why Colab?
+- PyTorch is preinstalled
+- No GPU setup required
+- Faster startup for demos and workshops
+- No local environment conflicts
+
+---
