@@ -52,7 +52,7 @@ cd Group-6-Visualizing-Attention-in-Transformer-Based-Language-Representation-Mo
 Since **Google Colab already includes PyTorch**, using Colab can significantly reduce setup time compared to local installation.
 
 ➡️ **Open the demo notebook in Google Colab:**  
-👉 **[Google Colab Notebook ()]**  
+👉 **[Google Colab Notebook (https://colab.research.google.com/drive/1v8nZwdmYbHzBd7f7nNz3xN7OAe7K-dZ4?usp=sharing)]**  
 
 ### Why Colab?
 - PyTorch is preinstalled
